@@ -1,2 +1,2 @@
-Sample basic meta tags, some of which we use on https://dealrated.com
+This page contains basic meta tags, some of which we use on <a href="https://dealrated.com">https://dealrated.com</a>
 
